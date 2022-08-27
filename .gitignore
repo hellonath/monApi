@@ -1,0 +1,4 @@
+.env
+
+# npm i = npm install
+node_modules/ 
